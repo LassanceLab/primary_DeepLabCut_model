@@ -5,7 +5,7 @@ alias:
   -   
 author: Thorbjörn Sievert  
 Created_at: 2023-09-19 13:51  
-Modified_at: 2023-10-23 15:27  
+Modified_at: 2023-10-23 15:50  
 owner: LassanceLab  
 repo: primary_DeepLabCut_model  
 share: true  
@@ -25,9 +25,14 @@ We will deviate from standard releases patterns for this repository:
 - Minor versions: Model iterations building up to the next publication  
   
 ## Model Details  
+  
+### Animals  
+We currently use *Peromyscus polionotus* (PO) and *Peromyscus maniculatus* (BW) of both sexes in our model.  
+  
+### Keypoints  
 The model uses mainly the standard tracking labels as used in [ModelZoo](https://deeplabcut.github.io/DeepLabCut/docs/ModelZoo.html) `superanimal_topviewmouse`, plus a few additional tracking points tailored to our needs.  
   
-Here are the additional labels:  
+Here are the additional keypoints:  
   
 ```yaml  
 - chin #for rearing animals to properly track head movement  
@@ -59,6 +64,10 @@ Here are the additional labels:
 - petri_9_12  
 ```  
   
+## Version Overview  
+  
+### 0.4 Initial Release  
+Iteration 4 of our model. Trained with XXX labeled frames across XX animals (XX PO, XX BW)  
   
 ## Acknowledgments  
 We would like to thank the Mathis Labs for developing DeepLabCut. Visit them at <https://github.com/DeepLabCut/DeepLabCut>  
