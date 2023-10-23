@@ -17,10 +17,10 @@ title: README
   
 ## Description  
 The Lassance Lab publishes here the progress of their DeepLabCut model.  
-Labelled frames and all previous iterations are included, full video files are not.  
+Labeled frames and all previous iterations are included, full video files are not.  
   
 ## Release Versioning  
-We will deviate from standard releases patterns for this repository:  
+We will deviate from standard release patterns for this repository:  
 - Major versions: milestones such as publications or similar  
 - Minor versions: Model iterations building up to the next publication  
   
