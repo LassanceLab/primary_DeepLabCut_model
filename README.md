@@ -5,7 +5,7 @@ alias:
   -   
 author: Thorbjörn Sievert  
 Created_at: 2023-09-19 13:51  
-Modified_at: 2023-10-23 15:50  
+Modified_at: 2023-10-25 10:09  
 owner: LassanceLab  
 repo: primary_DeepLabCut_model  
 share: true  
@@ -26,8 +26,28 @@ We will deviate from standard release patterns for this repository:
   
 ## Model Details  
   
+The current model contains the following data:  
+  
+Frames (n):  
+  
+| Strain | Female | Male |  
+| ------ | ------ | ---- |  
+| BW     |        |      |  
+| PO       |        |      |  
+  
+Animals (n):  
+  
+| Strain | Female | Male |  
+| ------ | ------ | ---- |  
+| BW     |        |      |  
+| PO       |        |      |  
+  
 ### Animals  
 We currently use *Peromyscus polionotus* (PO) and *Peromyscus maniculatus* (BW) of both sexes in our model.  
+  
+### Camera and Setup  
+Videos are recorded at 1440 x 1080 pixels, 200fps. All videos are recorded in black and white, under red light conditions.  
+We are currently using two Basler acA1440-220μm.  
   
 ### Keypoints  
 The model uses mainly the standard tracking labels as used in [ModelZoo](https://deeplabcut.github.io/DeepLabCut/docs/ModelZoo.html) `superanimal_topviewmouse`, plus a few additional tracking points tailored to our needs.  
