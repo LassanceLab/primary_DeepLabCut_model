@@ -1,7 +1,9 @@
 # ---------------------------General purpose---------------------------
 
 # Deeplabcut video directory
-LassanceLab-main-model-2023-09-14\videos
+/videos/*.mp4
+/videos/*.h5
+/videos/*.pickle
 
 # Common credential files
 **/credentials.json
