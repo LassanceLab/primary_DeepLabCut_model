@@ -5,7 +5,7 @@ alias:
   -   
 author: Thorbjörn Sievert  
 Created_at: 2023-09-19 13:51  
-Modified_at: 2023-10-25 10:09  
+Modified_at: 2023-10-25 13:32  
 owner: LassanceLab  
 repo: primary_DeepLabCut_model  
 share: true  
@@ -30,17 +30,19 @@ The current model contains the following data:
   
 Frames (n):  
   
-| Strain | Female | Male |  
-| ------ | ------ | ---- |  
-| BW     |        |      |  
-| PO       |        |      |  
+| Strain | Female | Male | Total |  
+|:------:|:------:|:----:|:-----:|  
+|   BW   |   80   | 120  |  200  |  
+|   PO   |  100   |  40  |  140  |  
+| Total  |  180   | 160  |  340  |  
   
 Animals (n):  
   
-| Strain | Female | Male |  
-| ------ | ------ | ---- |  
-| BW     |        |      |  
-| PO       |        |      |  
+| Strain | Female | Male | Total |  
+|:------:|:------:|:----:|:-----:|  
+|   BW   |   2    |  2   |   4   |  
+|   PO   |   3    |  1   |   4   |  
+| Total  |   5    |  3   |   8   |  
   
 ### Animals  
 We currently use *Peromyscus polionotus* (PO) and *Peromyscus maniculatus* (BW) of both sexes in our model.  
@@ -87,7 +89,23 @@ Here are the additional keypoints:
 ## Version Overview  
   
 ### 0.4 Initial Release  
-Iteration 4 of our model. Trained with XXX labeled frames across XX animals (XX PO, XX BW)  
+Iteration 4 of our model.  
+  
+Frames (n):  
+  
+| Strain | Female | Male | Total |  
+|:------:|:------:|:----:|:-----:|  
+|   BW   |   80   | 120  |  200  |  
+|   PO   |  100   |  40  |  140  |  
+| Total  |  180   | 160  |  340  |  
+  
+Animals (n):  
+  
+| Strain | Female | Male | Total |  
+|:------:|:------:|:----:|:-----:|  
+|   BW   |   2    |  2   |   4   |  
+|   PO   |   3    |  1   |   4   |  
+| Total  |   5    |  3   |   8   |  
   
 ## Acknowledgments  
 We would like to thank the Mathis Labs for developing DeepLabCut. Visit them at <https://github.com/DeepLabCut/DeepLabCut>  
