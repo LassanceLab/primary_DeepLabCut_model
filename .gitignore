@@ -4,6 +4,9 @@
 /videos/*.mp4
 /videos/*.h5
 /videos/*.pickle
+C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.mp4
+C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.h5
+C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.pickle
 
 # Common credential files
 **/credentials.json
