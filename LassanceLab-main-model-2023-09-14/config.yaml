@@ -1,0 +1,147 @@
+    # Project definitions (do not edit)
+Task: Callibration_analysis
+scorer: Sievert
+date: Sep14
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230912_112719915.mp4:
+    crop: 0, 1440, 0, 1080
+  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230913_095156139.mp4:
+    crop: 0, 1440, 0, 1080
+  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230913_103942722.mp4:
+    crop: 0, 1440, 0, 1080
+  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230913_133505324.mp4:
+    crop: 0, 1440, 0, 1080
+  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230913_141907166.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\2023-09-21_ID044_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\2023-09-18_ID079_BMm.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\2023-09-18_ID079_BMm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\2023-09-21_ID044_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-26_ID034_BWm.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-28_ID070_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-25_ID066_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-27_ID043_BWf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-26_ID034_BWm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-28_ID070_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-25_ID066_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+bodyparts:
+- nose
+- left_ear
+- right_ear
+- left_ear_tip
+- right_ear_tip
+- left_eye
+- right_eye
+- neck
+- mid_back
+- mouse_center
+- mid_backend
+- mid_backend2
+- mid_backend3
+- tail_base
+- tail1
+- tail2
+- tail3
+- tail4
+- tail5
+- left_shoulder
+- left_midside
+- left_hip
+- right_shoulder
+- right_midside
+- right_hip
+- tail_end
+- head_midpoint
+- chin #for rearing animals to properly track head movement
+- throat #same as above
+- tl_corner #top left corner to draw cage layout in R 
+- tr_corner #top right 
+- bl_corner #bottom left
+- br_corner #bottom right 
+- petri_12 #12 o'clock position of the petri dish. Indicated with 3 dots on the rim 
+- petri_03 # 3 o'clock position of the petri dish. Relative to the previous 12 o'clock position 
+- petri_06
+- petri_09
+- petri_12_3 # Halfway between the 12 o'clock and 3 o'clock position
+- petri_3_6
+- petri_6_9
+- petri_9_12
+
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+pcutoff: 0.9
+dotsize: 6
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 3
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true

@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\LassanceLab\\Callibration_analysis-Sievert-2023-09-14\\dlc-models\\iteration-1\\Callibration_analysisSep14-trainset95shuffle1\\train\\snapshot-300000"
+all_model_checkpoint_paths: "D:\\LassanceLab\\Callibration_analysis-Sievert-2023-09-14\\dlc-models\\iteration-1\\Callibration_analysisSep14-trainset95shuffle1\\train\\snapshot-100000"
+all_model_checkpoint_paths: "D:\\LassanceLab\\Callibration_analysis-Sievert-2023-09-14\\dlc-models\\iteration-1\\Callibration_analysisSep14-trainset95shuffle1\\train\\snapshot-150000"
+all_model_checkpoint_paths: "D:\\LassanceLab\\Callibration_analysis-Sievert-2023-09-14\\dlc-models\\iteration-1\\Callibration_analysisSep14-trainset95shuffle1\\train\\snapshot-200000"
+all_model_checkpoint_paths: "D:\\LassanceLab\\Callibration_analysis-Sievert-2023-09-14\\dlc-models\\iteration-1\\Callibration_analysisSep14-trainset95shuffle1\\train\\snapshot-250000"
+all_model_checkpoint_paths: "D:\\LassanceLab\\Callibration_analysis-Sievert-2023-09-14\\dlc-models\\iteration-1\\Callibration_analysisSep14-trainset95shuffle1\\train\\snapshot-300000"
