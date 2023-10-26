@@ -1,9 +1,9 @@
 # ---------------------------General purpose---------------------------
 
 # Deeplabcut video directory
-/videos/*.mp4
-/videos/*.h5
-/videos/*.pickle
+LassanceLab-main-model-2023-09-14/videos/*.mp4
+LassanceLab-main-model-2023-09-14/videos/*.h5
+LassanceLab-main-model-2023-09-14/videos/*.pickle
 C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.mp4
 C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.h5
 C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.pickle
