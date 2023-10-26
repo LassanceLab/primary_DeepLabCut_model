@@ -88,8 +88,8 @@ Here are the additional keypoints:
   
 ## Version Overview  
   
-### 0.4 Initial Release  
-Iteration 4 of our model.  
+### 0.3 Initial Release  
+Iteration 3 of our model.  
   
 Frames (n):  
   
