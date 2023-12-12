@@ -6,41 +6,17 @@ multianimalproject: false
 identity:
 
     # Project path (change when moving around)
-project_path: D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14
+project_path: D:/LassanceLab/primary_DeepLabCut_model/LassanceLab-main-model-2023-09-14
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
-  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230912_112719915.mp4:
+  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\2023-09-19_ID044_BWf_preexposure.mp4:
     crop: 0, 1440, 0, 1080
-  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230913_095156139.mp4:
+  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\2023-09-22_ID082_CTRL.mp4:
     crop: 0, 1440, 0, 1080
-  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230913_103942722.mp4:
+  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\2023-09-20_ID079_POm.mp4:
     crop: 0, 1440, 0, 1080
-  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230913_133505324.mp4:
-    crop: 0, 1440, 0, 1080
-  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\Basler_acA1440-220um__40264738__20230913_141907166.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\2023-09-21_ID044_POf_preexposure.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\2023-09-18_ID079_BMm.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\2023-09-18_ID079_BMm_preexposure.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\2023-09-21_ID044_POf.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-26_ID034_BWm.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-28_ID070_POm_preexposure.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-25_ID066_CTRL.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-27_ID043_BWf_preexposure.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-26_ID034_BWm_preexposure.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-28_ID070_POm.mp4:
-    crop: 0, 1440, 0, 1080
-  C:\Users\ULiege\Desktop\ShutterEncoder test\Output\Test2\2023-09-25_ID066_CTRL_preexposure.mp4:
+  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\2023-09-19_ID031_BWf.mp4:
     crop: 0, 1440, 0, 1080
 bodyparts:
 - nose
@@ -88,28 +64,10 @@ bodyparts:
 
     # Fraction of video to start/stop when extracting frames for labeling/refinement
 
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
-
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
-
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
-
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
-
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
-
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
-
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
-
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
-
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
-
-    # Fraction of video to start/stop when extracting frames for labeling/refinement
+    
 start: 0
 stop: 1
-numframes2pick: 20
+numframes2pick: 5
 
     # Plotting configuration
 skeleton:
@@ -126,7 +84,7 @@ colormap: rainbow
     # Training,Evaluation and Analysis configuration
 TrainingFraction:
 - 0.95
-iteration: 3
+iteration: 4
 default_net_type: resnet_50
 default_augmenter: default
 snapshotindex: -1
