@@ -1,18 +1,4 @@
----  
-tags:  
-  - github-landing  
-alias:  
-  -   
-author: Thorbjörn Sievert  
-Created_at: 2023-09-19 13:51  
-Modified_at: 2023-10-25 13:32  
-owner: LassanceLab  
-repo: primary_DeepLabCut_model  
-share: true  
-path: /  
-title: README  
----  
-  
+
 # Main DeepLabCut Model Data of the Lassance Lab  
   
 ## Description  
