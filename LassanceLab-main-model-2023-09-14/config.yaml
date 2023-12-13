@@ -6,17 +6,12 @@ multianimalproject: false
 identity:
 
     # Project path (change when moving around)
-project_path: D:/LassanceLab/primary_DeepLabCut_model/LassanceLab-main-model-2023-09-14
+project_path: 
+  /gpfs/projects/acad/behavior/DLC_model/primary_DeepLabCut_model/LassanceLab-main-model-2023-09-14
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
-  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\2023-09-19_ID044_BWf_preexposure.mp4:
-    crop: 0, 1440, 0, 1080
-  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\2023-09-22_ID082_CTRL.mp4:
-    crop: 0, 1440, 0, 1080
-  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\2023-09-20_ID079_POm.mp4:
-    crop: 0, 1440, 0, 1080
-  D:\LassanceLab\primary_DeepLabCut_model\LassanceLab-main-model-2023-09-14\videos\2023-09-19_ID031_BWf.mp4:
+   /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/2023-09-15_test videos/cluster_test_vid.mp4:
     crop: 0, 1440, 0, 1080
 bodyparts:
 - nose
@@ -64,7 +59,24 @@ bodyparts:
 
     # Fraction of video to start/stop when extracting frames for labeling/refinement
 
-    
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
 start: 0
 stop: 1
 numframes2pick: 5
