@@ -1,4 +1,18 @@
-
+---  
+tags:  
+  - github-landing  
+alias: []  
+author: Thorbjörn Sievert  
+Created_at: 2023-09-19 13:51  
+Modified_at: 2023-10-26 13:20  
+owner: LassanceLab  
+repo: primary_DeepLabCut_model  
+share: true  
+path: /  
+title: README  
+---  
+  
+  
 # Main DeepLabCut Model Data of the Lassance Lab  
   
 ## Description  
@@ -72,8 +86,9 @@ Here are the additional keypoints:
 - petri_9_12  
 ```  
   
-## Version Overview  
   
+<details>  
+<summary> ## Version Overview </summary>  
 ### 0.3 Initial Release  
 Iteration 3 of our model.  
   
@@ -92,6 +107,8 @@ Animals (n):
 |   BW   |   2    |  2   |   4   |  
 |   PO   |   3    |  1   |   4   |  
 | Total  |   5    |  3   |   8   |  
+  
+</details>  
   
 ## Acknowledgments  
 We would like to thank the Mathis Labs for developing DeepLabCut. Visit them at <https://github.com/DeepLabCut/DeepLabCut>  
