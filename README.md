@@ -4,7 +4,7 @@ tags:
 alias: []  
 author: Thorbjörn Sievert  
 Created_at: 2023-09-19 13:51  
-Modified_at: 2023-10-26 13:20  
+Modified_at: 2024-01-08 14:57  
 owner: LassanceLab  
 repo: primary_DeepLabCut_model  
 share: true  
@@ -88,7 +88,8 @@ Here are the additional keypoints:
   
   
 <details>  
-<summary>## Version Overview </summary>  
+<summary>## Version Overview</summary>  
+  
 ### 0.3 Initial Release  
 Iteration 3 of our model.  
   
