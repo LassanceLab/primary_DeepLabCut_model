@@ -88,9 +88,10 @@ Here are the additional keypoints:
   
   
 <details>  
-<summary>## Version Overview</summary>  
+<summary><h2>Version Overview</h2></summary>  
   
 ### 0.3 Initial Release  
+  
 Iteration 3 of our model.  
   
 Frames (n):  
@@ -112,4 +113,4 @@ Animals (n):
 </details>  
   
 ## Acknowledgments  
-We would like to thank the Mathis Labs for developing DeepLabCut. Visit them at <https://github.com/DeepLabCut/DeepLabCut>  
+We would like to thank the Mathis Labs for developing DeepLabCut. Visit them at <https://github.com/DeepLabCut/DeepLab
