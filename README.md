@@ -88,7 +88,7 @@ Here are the additional keypoints:
   
   
 <details>  
-<summary> ## Version Overview </summary>  
+<summary>## Version Overview </summary>  
 ### 0.3 Initial Release  
 Iteration 3 of our model.  
   
