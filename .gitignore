@@ -8,6 +8,10 @@ C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.mp4
 C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.h5
 C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.pickle
 
+# Deeplabcut config.yaml to avoid path conflicts while moving between computers
+LassanceLab-main-model-2023-09-14/config.yaml
+
+
 # Common credential files
 **/credentials.json
 **/client_secrets.json
