@@ -411,6 +411,286 @@ video_sets:
     crop: 0, 1440, 0, 1080
   /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort2/2023-09-29_ID070_POf_preexposure.mp4:
     crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID068_BWf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID068_BWf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID069_BWf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID069_BWf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID075_BWf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID075_BWf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID076_BWf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID076_BWf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID096_BWf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID096_BWf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID097_BWf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID097_BWf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID099_BWf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID099_BWf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID100_BWf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-30_ID100_BWf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID068_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID068_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID069_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID069_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID075_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID075_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID076_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID076_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID096_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID096_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID097_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID097_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID099_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID099_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID100_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-10-31_ID100_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID068_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID068_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11_01_ID069_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11_01_ID069_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID075_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID075_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID076_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID076_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID096_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID096_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID097_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID097_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID099_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID099_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID100_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-01_ID100_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID068_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID068_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID069_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID069_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID075_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID075_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID076_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID076_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID096_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID096_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID097_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID097_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID099_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID099_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID100_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-02_ID100_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID068_BWm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID068_BWm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID069_BWm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID069_BWm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID075_BWm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID075_BWm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID076_BWm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID076_BWm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID096_BWm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID096_BWm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID097_BWm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID097_BWm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID099_BWm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID099_BWm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID100_BWm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort5/2023-11-03_ID100_BWm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID064_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID064_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID072_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID072_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID078_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID078_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID083_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID083_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID093_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID093_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID094_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID094_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID104_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID104_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID119_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-06_ID119_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID030_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID030_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID086_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID086_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID087_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID087_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID120_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID120_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID155_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID155_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID156_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID156_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID182_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID182_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID185_POf.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-07_ID185_POf_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID042_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID042_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID073_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID073_CTRL_preexposuret.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID089_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID089_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID103_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID103_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID115_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID115_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID117_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-08_ID117_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID111_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID111_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID122_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID122_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID126_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID126_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID127_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID127_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID135_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID135_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID136_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID136_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID142_CTRL.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID142_CTRL_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID154_POm.mp4:
+    crop: 0, 1440, 0, 1080
+  /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID154_POm_preexposure.mp4:
+    crop: 0, 1440, 0, 1080
 bodyparts:
 - nose
 - left_ear
@@ -457,6 +737,12 @@ bodyparts:
 
     # Fraction of video to start/stop when extracting frames for labeling/refinement
 
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
 
     # Fraction of video to start/stop when extracting frames for labeling/refinement
 
