@@ -691,6 +691,16 @@ video_sets:
     crop: 0, 1440, 0, 1080
   /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/cohort6/2023-11-09_ID154_POm_preexposure.mp4:
     crop: 0, 1440, 0, 1080
+  ? /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/2023-09-15_test_videos/Basler_acA1440-220um__40264738__20230912_112719915.mp4
+  : crop: 0, 1440, 0, 1080
+  ? /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/2023-09-15_test_videos/Basler_acA1440-220um__40264738__20230913_095156139.mp4
+  : crop: 0, 1440, 0, 1080
+  ? /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/2023-09-15_test_videos/Basler_acA1440-220um__40264738__20230913_103942722.mp4
+  : crop: 0, 1440, 0, 1080
+  ? /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/2023-09-15_test_videos/Basler_acA1440-220um__40264738__20230913_133505324.mp4
+  : crop: 0, 1440, 0, 1080
+  ? /gpfs/projects/acad/behavior/videos/2023-11-13_conspecific_odor_videos/2023-09-15_test_videos/Basler_acA1440-220um__40264738__20230913_141907166.mp4
+  : crop: 0, 1440, 0, 1080
 bodyparts:
 - nose
 - left_ear
@@ -807,6 +817,10 @@ bodyparts:
     # Fraction of video to start/stop when extracting frames for labeling/refinement
 
     # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
 start: 0
 stop: 1
 numframes2pick: 5
@@ -826,7 +840,7 @@ colormap: rainbow
     # Training,Evaluation and Analysis configuration
 TrainingFraction:
 - 0.95
-iteration: 4
+iteration: 5
 default_net_type: resnet_50
 default_augmenter: default
 snapshotindex: -1
