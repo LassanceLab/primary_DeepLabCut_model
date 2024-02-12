@@ -11,6 +11,10 @@ C:/Users/ULiege/Desktop/ShutterEncoder test/Output/*.pickle
 # Deeplabcut config.yaml to avoid path conflicts while moving between computers
 LassanceLab-main-model-2023-09-14/config.yaml
 
+# All png files from extracted frames and evaluation to reduce repo size
+LassanceLab-main-model-2023-09-14/labeled-data/*.png
+LassanceLab-main-model-2023-09-14/evaluation-results/*.png
+
 
 # Common credential files
 **/credentials.json
