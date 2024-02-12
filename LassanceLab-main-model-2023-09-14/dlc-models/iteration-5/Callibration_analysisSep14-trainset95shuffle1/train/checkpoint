@@ -1,0 +1,6 @@
+model_checkpoint_path: "/gpfs/projects/acad/behavior/DLC_model/primary_DeepLabCut_model/LassanceLab-main-model-2023-09-14/dlc-models/iteration-5/Callibration_analysisSep14-trainset95shuffle1/train/snapshot-1030000"
+all_model_checkpoint_paths: "/gpfs/projects/acad/behavior/DLC_model/primary_DeepLabCut_model/LassanceLab-main-model-2023-09-14/dlc-models/iteration-5/Callibration_analysisSep14-trainset95shuffle1/train/snapshot-1010000"
+all_model_checkpoint_paths: "/gpfs/projects/acad/behavior/DLC_model/primary_DeepLabCut_model/LassanceLab-main-model-2023-09-14/dlc-models/iteration-5/Callibration_analysisSep14-trainset95shuffle1/train/snapshot-1015000"
+all_model_checkpoint_paths: "/gpfs/projects/acad/behavior/DLC_model/primary_DeepLabCut_model/LassanceLab-main-model-2023-09-14/dlc-models/iteration-5/Callibration_analysisSep14-trainset95shuffle1/train/snapshot-1020000"
+all_model_checkpoint_paths: "/gpfs/projects/acad/behavior/DLC_model/primary_DeepLabCut_model/LassanceLab-main-model-2023-09-14/dlc-models/iteration-5/Callibration_analysisSep14-trainset95shuffle1/train/snapshot-1025000"
+all_model_checkpoint_paths: "/gpfs/projects/acad/behavior/DLC_model/primary_DeepLabCut_model/LassanceLab-main-model-2023-09-14/dlc-models/iteration-5/Callibration_analysisSep14-trainset95shuffle1/train/snapshot-1030000"
