@@ -13,8 +13,7 @@ LassanceLab-main-model-2023-09-14/config.yaml
 
 # All png files from extracted frames and evaluation to reduce repo size
 LassanceLab-main-model-2023-09-14/labeled-data/*/*/*.png
-LassanceLab-main-model-2023-09-14/evaluation-results/*/*/*.png
-
+LassanceLab-main-model-2023-09-14/evaluation-results/*/*/*/*.png
 
 
 # Common credential files
