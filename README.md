@@ -12,7 +12,6 @@ path: /
 title: README  
 ---  
   
-  
 # Main DeepLabCut Model Data of the Lassance Lab  
   
 ## Description  
@@ -32,17 +31,17 @@ Frames (n):
   
 | Strain | Female | Male | Total |  
 |:------:|:------:|:----:|:-----:|  
-|   BW   |   80   | 120  |  200  |  
-|   PO   |  100   |  40  |  140  |  
-| Total  |  180   | 160  |  340  |  
+|   BW   |   560   | 495  |  1055  |  
+|   PO   |  530   |  570  |  1100  |  
+| Total  |  1090   | 1065  |  2155  |  
   
 Animals (n):  
   
 | Strain | Female | Male | Total |  
 |:------:|:------:|:----:|:-----:|  
-|   BW   |   2    |  2   |   4   |  
-|   PO   |   3    |  1   |   4   |  
-| Total  |   5    |  3   |   8   |  
+|   BW   |   15    |  14   |   29   |  
+|   PO   |   15    |  16   |   31   |  
+| Total  |   30    |  30   |   60   |  
   
 ### Animals  
 We currently use *Peromyscus polionotus* (PO) and *Peromyscus maniculatus* (BW) of both sexes in our model.  
@@ -90,6 +89,26 @@ Here are the additional keypoints:
 <details>  
 <summary><h2>Version Overview</h2></summary>  
   
+### 0.5  
+  
+Iteration 5 of our model  
+  
+Frames (n):  
+  
+| Strain | Female | Male | Total |  
+|:------:|:------:|:----:|:-----:|  
+|   BW   |   560   | 495  |  1055  |  
+|   PO   |  530   |  570  |  1100  |  
+| Total  |  1090   | 1065  |  2155  |  
+  
+Animals (n):  
+  
+| Strain | Female | Male | Total |  
+|:------:|:------:|:----:|:-----:|  
+|   BW   |   15    |  14   |   29   |  
+|   PO   |   15    |  16   |   31   |  
+| Total  |   30    |  30   |   60   |  
+  
 ### 0.3 Initial Release  
   
 Iteration 3 of our model.  
@@ -113,4 +132,4 @@ Animals (n):
 </details>  
   
 ## Acknowledgments  
-We would like to thank the Mathis Labs for developing DeepLabCut. Visit them at <https://github.com/DeepLabCut/DeepLab
+We would like to thank the Mathis Labs for developing DeepLabCut. Visit them at https://github.com/DeepLabCut/DeepLab
