@@ -1,0 +1,3 @@
+model_checkpoint_path: "D:\\LassanceLab\\Callibration_analysis-Sievert-2023-09-14\\dlc-models\\iteration-0\\Callibration_analysisSep14-trainset95shuffle1\\train\\snapshot-100000"
+all_model_checkpoint_paths: "D:\\LassanceLab\\Callibration_analysis-Sievert-2023-09-14\\dlc-models\\iteration-0\\Callibration_analysisSep14-trainset95shuffle1\\train\\snapshot-50000"
+all_model_checkpoint_paths: "D:\\LassanceLab\\Callibration_analysis-Sievert-2023-09-14\\dlc-models\\iteration-0\\Callibration_analysisSep14-trainset95shuffle1\\train\\snapshot-100000"
