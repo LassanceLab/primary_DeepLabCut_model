@@ -1,22 +1,11 @@
----  
-tags:  
-  - github-landing  
-alias: []  
-author: Thorbjörn Sievert  
-Created_at: 2023-09-19 13:51  
-Modified_at: 2024-01-08 14:57  
-owner: LassanceLab  
-repo: primary_DeepLabCut_model  
-share: true  
-path: /  
-title: README  
----  
+  
   
 # Main DeepLabCut Model Data of the Lassance Lab  
   
 ## Description  
 The Lassance Lab publishes here the progress of their DeepLabCut model.  
-Labeled frames and all previous iterations are included, full video files are not.  
+All previous versions are included.  
+Labeled frames and video files are excluded due to space limitations of the repository. Annotation data of the frames is still present.  
   
 ## Release Versioning  
 We will deviate from standard release patterns for this repository:  
