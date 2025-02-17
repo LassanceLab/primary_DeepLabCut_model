@@ -15,6 +15,11 @@ LassanceLab-main-model-2023-09-14/config.yaml
 LassanceLab-main-model-2023-09-14/labeled-data/*/*/*.png
 LassanceLab-main-model-2023-09-14/evaluation-results/*/*/*/*.png
 
+# Old versions of the model
+LassanceLab-main-model-2023-09-14/dlc-models/iteration-0/*
+LassanceLab-main-model-2023-09-14/dlc-models/iteration-1/*
+LassanceLab-main-model-2023-09-14/dlc-models/iteration-2/*
+LassanceLab-main-model-2023-09-14/dlc-models/iteration-3/*
 
 # Common credential files
 **/credentials.json
